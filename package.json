@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/miguelrazo25/amigoMaker/issues"
   },
-  "homepage": "https://github.com/miguelrazo25/amigoMaker#readme"
+  "homepage": "https://github.com/miguelrazo25/amigoMaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
